@@ -7,14 +7,14 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Meyve Sözlüğü</name>
+  <name>Gürün</name>
 
   <description>
-      İlkokul öğrencileri için oluşturduğumuz bu meyveli sözlük...
+      Sivas ili Gürün ilçesi
   </description>
 
-  <author href="http://www.madran.net" email="orcunmadran@gmail.com">
-      Orçun Madran
+  <author href="" email="">
+      Kadir Hançer
   </author>
     
   <icon src="icon.png" />
